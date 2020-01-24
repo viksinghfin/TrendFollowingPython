@@ -1,0 +1,2 @@
+# TrendFollowingPython
+Trend following finance
